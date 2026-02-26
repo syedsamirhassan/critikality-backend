@@ -8,13 +8,13 @@ from routes import workers, devices, zones, dashboard, team, enrollment
 
 load_dotenv()
 
-app = FastAPI(title="Critikality API", version="1.0.0")
+app = FastAPI(title="Critikality API", version="1.0.0", redirect_slashes=False)
 
 # CORS Configuration
 origins = os.getenv("CORS_ORIGINS", "").split(",")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],  # Allow all origins for local testing
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
