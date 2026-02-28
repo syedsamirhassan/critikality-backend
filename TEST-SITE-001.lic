@@ -1,0 +1,15 @@
+{
+  "customer": "Test Client Corporation",
+  "site_id": "TEST-SITE-001",
+  "jetson_serial": "TEST987654321",
+  "issued_date": "2026-02-27",
+  "expiration_date": "2027-02-22",
+  "max_cameras": 4,
+  "features": [
+    "face_recognition",
+    "liveness",
+    "reports"
+  ],
+  "version": "1.0",
+  "signature": "MWG62bWXBWoHOmudH/T/5XSuWl1Z93Qf7CYjQK1bAlK6sDJUdtqURUIb23pA+y7it6gBiVG3D5623SB8q+zeBKMW7+R2PskJGetJA0ASoKQx1iF8NMIocEEVJUII8VVvskWoTKDEtFFOq8pMxXrmVMzIWdahCKnnousDfK7gs7Qsd4zGWNJ//fJfrneAm0wC5Xf74nNFqawlTPBKIpSD5rzy8CVZeJYM89MXdFWdPxv1vGxAbeb6wAKGpseAxdzlvr4u1ho/UZ9IT7QnSGrprMrnkRN4scZ9BA3AT6lAW+pFqgsggjcVPcQtagYPiSfqM8smXRXZ9M/sJHip2P2ekg=="
+}

@@ -1,0 +1,15 @@
+{
+  "customer": "Saudi Aramco - Ras Tanura Refinery",
+  "site_id": "ARAMCO-RT-001",
+  "jetson_serial": "1420123456789",
+  "issued_date": "2026-02-27",
+  "expiration_date": "2027-02-22",
+  "max_cameras": 4,
+  "features": [
+    "face_recognition",
+    "liveness",
+    "reports"
+  ],
+  "version": "1.0",
+  "signature": "wgvJrs7VgUQxv2wota3f+JtzBT4/kN5sjYz1TPAkQ63ycWfYir3+wirl6RLPnN0ApXCHI4th2ai5128pe8a12gByFNHfwgvLi83HHExUYMumRsJR8Cu4M7uXoQLzuEdW92Cj5YHwImOcf/17PtUJ67+Q9dyQ3gUqSnRNnE1AYurc/0AWgx1WArsSv9myWtfWxXAZU6qHxmQcuXl5LE17uf2aUfLpOKq53YI2pFg+vjiXw4xnyMlh5YCM/ejcTU0TKAJ5Rdow+1kOsAJ6LNzuVTwv8UCmyKhHc7VI2n+woQDvu/JKU1Pqv7voAnUIR+40CA1+YEIH5xdE7cEddy30LQ=="
+}

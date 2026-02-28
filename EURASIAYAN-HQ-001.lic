@@ -1,0 +1,15 @@
+{
+  "customer": "Eurasiayan",
+  "site_id": "EURASIAYAN-HQ-001",
+  "jetson_serial": "JTX001234567",
+  "issued_date": "2026-02-27",
+  "expiration_date": "2027-02-22",
+  "max_cameras": 6,
+  "features": [
+    "face_recognition",
+    "liveness",
+    "reports"
+  ],
+  "version": "1.0",
+  "signature": "YC43xD3HeJp0uYd9SxlBb6kgG/cmyaTWPMB1l/wnYXH8NC/L6tkxag0aVHkae4k1lijki0OtaJDiYz8yhNPUUwyRSnhTKhQusLd7iUuRoM1sD6c5/aDgIW/1caVuNfsMBTWt7/KgZ+V+aGodlNXYCUbDZZJ/+bhTRGjbEv7d3kqCRUHof/64g/zvDgjTI9q7NXlhR3VWu4egeE6j1ksebbqzBmSm2qfOQI4CaN3kmnRjWRTAddAF8RKv9LJIY1SPD3SySKoi4oDCAYIobqpWe0tu7okjgnYHyjEIn+LCAbTPgG2M1VjgOlc8F6ZtNsTs2jZ0HNyXgvbXgOiPd5eBYQ=="
+}
